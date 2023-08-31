@@ -10,6 +10,6 @@ bscaled = b./sqrt(a.^2+b.^2);
 quiver(x,y,ascaled,bscaled)
 axis equal;
 hold on
-title('Ioannis Papaspyridis, 400363946');
+title('');
 xlabel('x');
 ylabel('y');
