@@ -27,7 +27,7 @@ xlim([-2 2]);
 ylim([-1 3]);
 plot(ex',yExact','-k','LineWidth',2);
 
-title('Ioannis Papaspyridis, 400363946');
+title('');
 xlabel('x');
 ylabel('y');
 
