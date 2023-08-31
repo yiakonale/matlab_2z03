@@ -49,7 +49,7 @@ end
 
 plot(H,x,'r', H,u,'b')
 %xlim([0 3]) % Gave the t axis specific limits for a clearer looking plot
-title('Ioannis Papaspyridis, 400363946');
+title('');
 legend('x', 'u');
 xlabel('t');
 ylabel('x and u');
@@ -121,7 +121,7 @@ disp(max(dif));
 
 plot(H,x,'r', H,xa,'-.b')
 %xlim([0 3])
-title('Ioannis Papaspyridis, 400363946');
+title('');
 legend('θ', 'θα');
 xlabel('t');
 ylabel('θ and θα');
